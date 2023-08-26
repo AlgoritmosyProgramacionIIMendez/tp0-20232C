@@ -4,7 +4,7 @@
 
 # TP0
 
-## Repositorio de (Nombre Apellido) - (Padrón) - (Mail)
+## Repositorio de Lazo Sebastian- 106213 - slazo@fi.uba.ar
 
 - Para compilar:
 
